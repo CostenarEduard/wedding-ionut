@@ -1,0 +1,181 @@
+{
+  "heroSection": {
+    "month": "august",
+    "city": "Oradea"
+  },
+  "navAside": {
+    "header": "Eduard & Jessica",
+    "date": "08.19.2022",
+    "home": "Home",
+    "couple": "Grooms",
+    "story": "Our Story",
+    "whereAndWhen": "When & Where",
+    "organization": "Menu",
+    "secondOrganization": "Beverages",
+    "confirmationOfParticipation": "Attendance Confirmation",
+    "footer": "Eduard & Jessica",
+    "footerDateAndLocation": "19 August 2022, Oradea"
+  },
+  "coupleSection": {
+    "brideName": "Jessica Covaciu",
+    "brideSubtitle": "The bride",
+    "groomName": "Costenar Eduard",
+    "groomSubtitle": "The groom",
+    "firstText": "Welcome to our wedding website – we’re so glad you’re here!",
+    "secondText": "We’ve created this website as a helpful resource for all of the need-to-know details in the lead up to our big day. Here you’ll find our schedule of timings and venue directions, along with our bridal party introductions and relationship history.",
+    "thirdText": "We’d love for you to take a look around to learn more about our wedding day plans. Don’t forget to RSVP and let us know about any dietary preferences, too. (ovo-lacto vegetarian, vegan, intolerant, children's menu).",
+    "forthText": "And finally, thanks so much for all of your love and support so far! We can’t wait to celebrate this special day with all of our favourite people.",
+    "textBottom": "We getting married!",
+    "dateAndLocation": "August 19, 2022 - Oradea"
+  },
+  "countdownSection": {
+    "counterHeader": "We will become a family in",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "story": {
+    "bottomHeader": "Our story",
+    "firstText": "It all began on a hot summer night back in 2014. We met through a friend, but had no idea that 6 years later we`d find ourselves so in love.",
+    "secondText": "We hung out a few times, sent lots of messages back and forth and spending time together finding out how much we have in common and finally we became a couple. It wasn`t long before we knew that we`d be together forever. We were best friends, true loves and badass partners in life.",
+    "thirdText": "As years passed by, we felt more and more that we are meant to be and we couldn`t help falling in love with eachother and in September 2020 we got engaged. And the rest is history…",
+    "forthText": "We`re finally ready to make it official!"
+  },
+  "dateSection": {
+    "header": "Looking forward to seeing you!",
+    "date": "08.19.2022"
+  },
+  "whenAndWhereSection": {
+    "bottomHeader": "When & Where",
+    "firstCard": {
+      "title": "Marriage ceremony",
+      "where": "Calea Aradului, Nr. 91A, Oradea",
+      "when": "6:00 pm"
+    },
+    "secondCard": {
+      "title": "Wedding party",
+      "where": "Calea Aradului, Nr. 91A, Oradea",
+      "when": "7:00 pm"
+    }
+  },
+  "organizationSection": {
+    "bottomHeader": "Menu",
+    "menu": {
+      "firstMenu": {
+        "title": "Starter",
+        "list": {
+          "firstIngredient": "Quique with chicken breast, pancetta and leek",
+          "secondIngredient": "Pork and chicken dumpling in ham cape with red onion chutney",
+          "thirdIngredient": "Mini Kyiv with cream cheese",
+          "forthIngredient": "Beef pastrami with meat and horseradish pate",
+          "fifthIngredient": "Cedar cheese balls in a coal cloak",
+          "sixthIngredient": "Panna cotta with flavored cream cheese in cedar mantle",
+          "seventhIngredient": "Mushroom salad",
+          "eightIngredient": "Mix of fresh salads with smoked duck breast and Worcestershire sauce"
+        }
+      },
+      "secondMenu": {
+        "title": "Cafea",
+        "list": {
+          "firstIngredient": "Cafea/Cappucino/Latte Machiatto"
+        }
+      },
+      "thirdMenu": {
+        "title": "Main course",
+        "list": {
+          "firstIngredient": "Stuffed chicken",
+          "secondIngredient": "Pork cheeks with brown mushroom sauce",
+          "thirdIngredient": "Potatoes au gratin with cheese",
+          "forthIngredient": "Pea puree"
+        }
+      },
+      "forthMenu": {
+        "title": "Second course",
+        "list": {
+          "firstIngredient": "Stuffed cabbage in a nest with polenta, served with bacon, cream sauce and dill"
+        }
+      },
+      "fifthMenu": {
+        "title": "Dessert",
+        "list": {
+          "firstIngredient": "Red velvet with white chocolate cream and berry puree",
+          "secondIngredient": "Candy Bar"
+        }
+      }
+    }
+  },
+  "secondOrganizationSection": {
+    "bottomHeader": "Beverages",
+    "menu": {
+      "firstMenu": {
+        "title": "Refreshments",
+        "list": {
+          "firstIngredient": "Coca Cola/Coca Cola Zero",
+          "secondIngredient": "Fanta Orange",
+          "thirdIngredient": "Sprite",
+          "forthIngredient": "Schweppes Kinley",
+          "fifthIngredient": "Aqua Carpatica still water / carbonated water",
+          "sixthIngredient": "RedBull",
+          "seventhIngredient": "Classic lemonade",
+          "eightIngredient": "Mint lemonade",
+          "ninthIngredient": "Lemonade with lavender"
+        }
+      },
+      "secondMenu": {
+        "title": "Coffee",
+        "list": {
+          "firstIngredient": "Ristretto / Cappuccino / Latte Machiatto"
+        }
+      },
+      "thirdMenu": {
+        "title": "Alcoholic beverages",
+        "list": {
+          "firstIngredient": "Chardonnay White Wine",
+          "secondIngredient": "Pinot Noir Red Wine",
+          "thirdIngredient": "Plum brandy",
+          "forthIngredient": "Heineken Beer / Heineken Beer 0%",
+          "fifthIngredient": "Whiskey Jack Daniels",
+          "sixthIngredient": "Jaggermeister",
+          "seventhIngredient": "Sheridans"
+        }
+      },
+      "forthMenu": {
+        "title": "Alcoholic Cocktails",
+        "list": {
+          "firstIngredient": "Aperol Spritz",
+          "secondIngredient": "Tanquerai Gin Tonic",
+          "thirdIngredient": "Cuba Libre",
+          "forthIngredient": "Screwdriver",
+          "fifthIngredient": "Hugo",
+          "sixthIngredient": "Mojito",
+          "seventhIngredient": "Pina Colada",
+          "eightIngredient": "Sex On The Beach",
+          "ninthIngredient": "Shots (Blue Kamikaze, Exclusive Shots, B52"
+        }
+      },
+      "fifthMenu": {
+        "title": "Non – Alcoholic Cocktails",
+        "list": {
+          "firstIngredient": "Green Apple",
+          "secondIngredient": "Adam & Eva",
+          "thirdIngredient": "Kiwi Squeeze"
+        }
+      }
+    }
+  },
+  "confirmationSection": {
+    "topHeader": "Will you attend?",
+    "bottomHeader": "Fill out this form and we will call you for confirmation by July 31st.",
+    "form":  {
+      "namePlaceholder": "name",
+      "phonePlaceholder": "phone",
+      "messagePlaceholder": "message",
+      "sendButton": "send"
+    }
+  },
+  "footerSection": {
+    "grooms": "Eduard & Jessica",
+    "whenAndWhere": "August 19, 2022 – Oradea, Opera Events"
+  }
+}
