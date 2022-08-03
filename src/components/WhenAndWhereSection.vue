@@ -20,7 +20,7 @@
             </div>
             <div class="text-container">
               <h4>Petrecere de nuntă</h4>
-              <p class="text"><span class="pin"></span>Calea Aradului, Nr. 91A, Oradea, în apropierea magazinului Dedeman</p>
+              <p class="text"><span class="pin"></span>Opera Events - Calea Aradului, Nr. 91A, Oradea, în apropierea magazinului Dedeman</p>
               <p class="text"><span class="clock"></span>16:00</p>
             </div>
           </div>
