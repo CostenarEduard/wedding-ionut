@@ -1,9 +1,7 @@
 <script setup>
-import { useI18n } from 'vue-i18n'
 import { watch, computed, ref } from 'vue'
 import { useFieldsStore } from '@/stores/fields'
 
-const { t } = useI18n() // use as global scope
 const store = useFieldsStore()
 const scrollDistance = computed(() => { return store.scrollFromTopDistance })
 const show = ref(false)
@@ -19,52 +17,19 @@ watch(scrollDistance, () => {
   <div id="couple" class="couple-section">
     <div class="container">
       <div class="row">
-        <div class="cards-container">
-          <Transition name="left-slide-fade">
-            <div
-                v-if="show"
-                class="card"
-            >
-              <div class="card-image groom-img"></div>
-              <div class="card-header">
-                <div class="card-header-title">
-                  <h3>{{ t('coupleSection.groomName') }}</h3>
-                </div>
-                <div class="card-header-subtitle">
-                  <h4>{{ t('coupleSection.groomSubtitle') }}</h4>
-                </div>
-              </div>
-            </div>
-          </Transition>
-          <Transition name="right-slide-fade">
-            <div
-                v-if="show"
-                class="card"
-            >
-              <div class="card-image bride-img"></div>
-              <div class="card-header">
-                <div class="card-header-title">
-                  <h3>{{ t('coupleSection.brideName') }}</h3>
-                </div>
-                <div class="card-header-subtitle">
-                  <h4>{{ t('coupleSection.brideSubtitle') }}</h4>
-                </div>
-              </div>
-            </div>
-          </Transition>
-        </div>
-      </div>
-      <div class="row center-content">
-        <div class="full-width-card">
-          <p>{{ t('coupleSection.firstText') }}</p>
-          <p>{{ t('coupleSection.secondText') }}</p>
-          <p>{{ t('coupleSection.thirdText') }}</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="text-container">
-          <h3>{{ t('coupleSection.textBottom')}}</h3>
-          <p>{{ t('coupleSection.dateAndLocation') }}</p>
+        <div class="text-content">
+          <h3>
+            "Este mai bine în doi, decât de unul singur, căci doi au mai mult folos pentru munca lor. <br/>
+            Dacă unul dintre ei va cădea, celălalt îl va ridica"
+          </h3>
+          <br/><br/>
+          <h2>
+            Pentru că orice clipă trăită înafara iubirii este o risipă, noi
+          </h2>
+          <br/>
+          <h1>Ionuţ & Camelia</h1>
+          <br/>
+          <h2>Ne punem viitorul și fericirea unul în mâinile celuilalt,</h2>
         </div>
       </div>
     </div>
@@ -73,10 +38,23 @@ watch(scrollDistance, () => {
 
 <style lang="scss" scoped>
   .couple-section {
-    min-height: 500px;
     padding: 60px 0;
     background-color: var(--color-background-grey);
     .row {
+      .text-content {
+        color: black;
+        font-family: 'BeauRivage-Regular', cursive;
+        text-align: center;
+        h3 {
+          font-size: 25px;
+        }
+        h2 {
+          font-size: 30px;
+        }
+        h1 {
+          font-size: 40px;
+        }
+      }
       &.center-content {
         display: flex;
         justify-content: center;

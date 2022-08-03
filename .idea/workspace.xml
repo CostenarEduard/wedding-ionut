@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db8a1c3b-66eb-456d-9b7c-d3b7dd1ba497" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Ceremony-560x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Eduard-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Jessica-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0597_1600x1067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0609_1600x1067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0615_1000x1250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0685_1600×1067.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0780_1600x1067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0883_1600x1067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/olive_branch_261x112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CountdownSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CountdownSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CoupleSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CoupleSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DateSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DateSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FooterSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FooterSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavAside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrganizationSection.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OurStorySection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OurStorySection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SecondOrganizationSection.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WhenAndWhereSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhenAndWhereSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/language/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/language/locales/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/language/locales/hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/language/locales/ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ThankYou.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28WK537hyyELLu5nPDBFTWEucIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eduardcostenar/Documents/Work/wedding-ionut/src/assets/images&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/assets/svg" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets/svg" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wedding/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8a1c3b-66eb-456d-9b7c-d3b7dd1ba497" name="Changes" comment="" />
+      <created>1651326714554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651326714554</updated>
+      <workItem from="1651326715759" duration="1104000" />
+      <workItem from="1651333739734" duration="33362000" />
+      <workItem from="1651510614600" duration="9639000" />
+      <workItem from="1651580555515" duration="874000" />
+      <workItem from="1651597015315" duration="8000" />
+      <workItem from="1651597176736" duration="3446000" />
+      <workItem from="1651600661098" duration="3988000" />
+      <workItem from="1651772066041" duration="5502000" />
+      <workItem from="1652000061502" duration="1586000" />
+      <workItem from="1652529323886" duration="3750000" />
+      <workItem from="1652805876871" duration="8079000" />
+      <workItem from="1653330902007" duration="11193000" />
+      <workItem from="1653500774517" duration="3617000" />
+      <workItem from="1653932389147" duration="11648000" />
+      <workItem from="1654538365229" duration="5132000" />
+      <workItem from="1654626218184" duration="22400000" />
+      <workItem from="1655142009335" duration="4706000" />
+      <workItem from="1655625672520" duration="7832000" />
+      <workItem from="1656228253608" duration="11130000" />
+      <workItem from="1656661012525" duration="3056000" />
+      <workItem from="1657043968953" duration="12622000" />
+      <workItem from="1657057724428" duration="4040000" />
+      <workItem from="1659464551646" duration="9580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

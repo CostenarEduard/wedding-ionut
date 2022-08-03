@@ -1,22 +1,17 @@
-<script setup>
-import { useI18n } from 'vue-i18n'
-
-const { t } = useI18n() // use as global scope
-</script>
-
 <template>
   <div id="story" class="our-story">
     <div class="container">
       <div class="row">
-        <div class="box">
-          <img src="@/assets/images/ZOE_0615_1000x1250.jpg" alt="ZOE_0697_1600x2400">
+        <p>Ne-au vegheat mereu pașii și ne-au fost alături părinții,</p>
+        <div class="content">
+          <p>Ioan și Corina</p>
+          <p>Ovidiu și Simona</p>
         </div>
-        <div class="box">
-          <div class="header-bottom">{{ t('story.bottomHeader') }}</div>
-          <p>{{ t('story.firstText') }}</p>
-          <p>{{ t('story.secondText') }}</p>
-          <p>{{ t('story.thirdText') }}</p>
-          <p>{{ t('story.forthText') }}</p>
+        <img src="@/assets/images/branch.jpeg" alt="olive branch">
+        <p>Iar de acum înainte ne vor fi alaturi ca părinți spirituali, nașii noștri,</p>
+        <div class="content">
+          <p>Ionuț și Maria Chira</p>
+          <p>Mădălin și Anca Mudura</p>
         </div>
       </div>
     </div>
@@ -30,6 +25,28 @@ const { t } = useI18n() // use as global scope
     .container {
       .row {
         display: flex;
+        flex-direction: column;
+        img {
+          width: 200px;
+          transition: 0.5s;
+          margin: auto;
+          padding: 15px 0;
+        }
+        p {
+          text-align: center;
+          font-size: 30px;
+          font-family: "BeauRivage-Regular", cursive;
+        }
+        .content {
+          display: flex;
+          justify-content: space-around;
+          padding-top: 20px;
+          p {
+            font-family: serif;
+            font-weight: 500;
+            font-size: 18px;
+          }
+        }
         .box {
           &:first-child {
             width: 40%;
@@ -41,7 +58,7 @@ const { t } = useI18n() // use as global scope
               right: 0;
               left: 45px;
               bottom: 0;
-              border: 10px solid #BD945A;
+              border: 10px solid var(--color-background-gold);
               box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
             }
             img {

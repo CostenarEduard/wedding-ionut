@@ -1,8 +1,5 @@
 <script setup>
-import { useI18n } from 'vue-i18n'
 import { onMounted, reactive } from 'vue'
-
-const { t } = useI18n() // use as global scope
 
 const scrollTo = () => {
   const element =   document.getElementById('couple')
@@ -29,11 +26,11 @@ onMounted(() => {
     <div class="container">
       <div class="text-center">
         <Transition name="slide-fade">
-          <h1 v-if="state.title">Eduard & Jessica</h1>
+          <h1 v-if="state.title">Ionuţ & Camelia</h1>
         </Transition>
         <div class="min-height">
           <Transition name="slide-fade">
-            <h5 v-if="state.subtitle">19 {{ t('heroSection.month').toUpperCase() }}, 2022 - {{ t('heroSection.city') }}</h5>
+            <h5 v-if="state.subtitle">25 SEPTEMBRIE 2022</h5>
           </Transition>
         </div>
       </div>
@@ -47,7 +44,7 @@ onMounted(() => {
 <style lang="scss" scoped>
   #hero-section {
     .container {
-      background: url(@/assets/images/ZOE_0597_1600x1067.jpg) no-repeat scroll center;
+      background: url(@/assets/images/poza-1-1600x1094.jpg) no-repeat scroll center;
       background-size: cover;
       height: 100vh;
       .heart-icon {
@@ -83,13 +80,14 @@ onMounted(() => {
         h1 {
           font-size: 80px;
           font-family: 'BeauRivage-Regular', cursive;
-          text-shadow: 0 0 15px var(--color-text-black);
+          margin-top: 130px;
+          text-shadow: 3px 1px 4px var(--color-text-black);
         }
         h5 {
           font-family: serif;
           font-size: 30px;
           font-style: italic;
-          text-shadow: 0 0 15px var(--color-text-black);
+          text-shadow: 3px 1px 4px var(--color-text-black);
         }
       }
     }

@@ -1,9 +1,7 @@
 <script setup>
 import { computed } from 'vue'
-import { useI18n } from 'vue-i18n'
 import { useFieldsStore } from "@/stores/fields";
 
-const { t } = useI18n() // use as global scope
 const store = useFieldsStore()
 
 const showNav = computed(() => { return store.showNav })
@@ -27,59 +25,35 @@ const scrollToId = (id) => {
   </button>
   <aside class="aside-nav">
     <div class="top-section">
-      <img src="@/assets/images/olive_branch_261x112.png" alt="olive branch">
-      <h3>{{ t('navAside.header') }}</h3>
-      <h6>{{ t('navAside.date') }}</h6>
+      <img src="@/assets/images/branch.jpeg" alt="olive branch">
+      <h3>Ionuţ & Camelia</h3>
+      <h6>25.09.2022</h6>
     </div>
     <nav>
       <ul>
         <li
-            @click="scrollToId('hero-section')"
-            class="link"
-        >
-          {{ t('navAside.home') }}
-        </li>
-        <li
-            @click="scrollToId('couple')"
-            class="link"
-        >
-          {{ t('navAside.couple') }}
-        </li>
-        <li
             @click="scrollToId('story')"
             class="link"
         >
-          {{ t('navAside.story') }}
+          Povestea noastră
         </li>
         <li
             @click="scrollToId('where-and-when')"
             class="link"
         >
-          {{ t('navAside.whereAndWhen') }}
-        </li>
-        <li
-            @click="scrollToId('organization')"
-            class="link"
-        >
-          {{ t('navAside.organization') }}
-        </li>
-        <li
-            @click="scrollToId('secondOrganization')"
-            class="link"
-        >
-          {{ t('navAside.secondOrganization') }}
+          Detaliile Evenimentului
         </li>
         <li
             @click="scrollToId('confirmation-of-participation')"
             class="link"
         >
-          {{ t('navAside.confirmationOfParticipation') }}
+          Confirmarea Participării
         </li>
       </ul>
     </nav>
     <div class="bottom-section">
       <div class="line"></div>
-      <p class="nav-footer">{{ t('navAside.footer') }}<br/> {{ t('navAside.footerDateAndLocation') }}</p>
+      <p class="nav-footer">Ionuţ & Camelia<br/> 25 Septembrie 2022</p>
     </div>
   </aside>
 </template>
@@ -168,7 +142,7 @@ const scrollToId = (id) => {
     left: 0;
     overflow-y: auto;
     z-index: 1001;
-    background: #F6F1F0;
+    background: #ffffff;
     transition: 0.5s;
     max-height: 100%;
     box-shadow: rgba(50, 50, 93, 0.25) 0 13px 27px -5px, rgba(0, 0, 0, 0.3) 0 8px 16px -8px;

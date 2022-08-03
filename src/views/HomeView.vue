@@ -6,10 +6,8 @@ import CoupleSection from '@/components/CoupleSection.vue'
 import CountdownSection from '@/components/CountdownSection.vue'
 import FooterSection from '@/components/FooterSection.vue'
 import OurStorySection from '@/components/OurStorySection.vue'
-import OrganizationSection from '@/components/OrganizationSection.vue'
 import DateSection from '@/components/DateSection.vue'
 import WhenAndWhereSection from '@/components/WhenAndWhereSection.vue'
-import SecondOrganizationSection from '@/components/SecondOrganizationSection.vue'
 import FormSection from '@/components/FormSection.vue'
 
 const store = useFieldsStore()
@@ -37,8 +35,6 @@ window.addEventListener('scroll', scrollDistanceFromTop);
       <OurStorySection/>
       <DateSection/>
       <WhenAndWhereSection/>
-      <OrganizationSection/>
-      <SecondOrganizationSection/>
       <FormSection/>
       <FooterSection/>
     </div>

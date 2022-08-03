@@ -1,8 +1,6 @@
 <script setup>
   import { reactive } from 'vue'
-  import { useI18n } from 'vue-i18n'
 
-  const { t } = useI18n() // use as global scope
   const state = reactive({
     days: 0,
     hours: 0,
@@ -11,7 +9,7 @@
   })
 
   const countdown = () => {
-    const countDownDate = new Date("Aug 19, 2022 18:00:00").getTime()
+    const countDownDate = new Date("Sep 25, 2022 14:30:00").getTime()
     const interval = setInterval(() => {
       const now = new Date().getTime();
       const distance = countDownDate - now;
@@ -43,26 +41,26 @@
   <div class="countdown-section">
     <div class="container">
       <div class="row">
-        <h5>{{ t('countdownSection.counterHeader') }}</h5>
+        <h5>Vom întemeia o familie în</h5>
       </div>
       <div class="row">
           <div class="counter-container">
             <ul>
               <li>
                 <h3>{{ state.days }}</h3>
-                <p>{{ t('countdownSection.days') }}</p>
+                <p>Zile</p>
               </li>
               <li>
                 <h3>{{ state.hours }}</h3>
-                <p>{{ t('countdownSection.hours') }}</p>
+                <p>Ore</p>
               </li>
               <li>
                 <h3>{{ state.minutes }}</h3>
-                <p>{{ t('countdownSection.minutes') }}</p>
+                <p>Minute</p>
               </li>
               <li>
                 <h3>{{ state.seconds }}</h3>
-                <p>{{ t('countdownSection.seconds') }}</p>
+                <p>Secunde</p>
               </li>
             </ul>
           </div>
@@ -76,7 +74,7 @@
     position: relative;
     .container {
       padding: 100px 0;
-      background: url(/src/assets/images/ZOE_0883_1600x1067.jpg) no-repeat scroll center;
+      background: url(/src/assets/images/poza-2-1242x932.jpeg) no-repeat scroll center;
       background-size: cover;
       h5 {
         font-family: "BeauRivage-Regular", cursive;
@@ -117,8 +115,9 @@
 
   @media (max-width: 768px) {
     .countdown-section .container {
-      background: url(/src/assets/images/ZOE_0883_1600x1067.jpg) no-repeat scroll center;
+      background: url(/src/assets/images/poza-2-1242x932.jpeg) no-repeat scroll center;
       background-position-x: 48%;
+      background-size: cover;
       h5 {
         font-size: 40px;
       }

@@ -1,16 +1,9 @@
-<script setup>
-import { useI18n } from 'vue-i18n'
-
-const { t } = useI18n() // use as global scope
-</script>
-
 <template>
   <section class="footer-section">
     <div class="container">
       <div class="row">
-        <img src="@/assets/images/olive_branch_261x112.png" alt="olive branch">
-        <h3>{{ t('footerSection.grooms') }}</h3>
-        <p>{{ t('footerSection.whenAndWhere') }}</p>
+        <img src="@/assets/images/branch.jpeg" alt="olive branch">
+        <h3>Vă așteptăm cu drag!</h3>
       </div>
     </div>
   </section>
@@ -19,7 +12,7 @@ const { t } = useI18n() // use as global scope
 <style lang="scss" scoped>
   section {
     padding: 90px 30px;
-    background: var(--color-background-grey);
+    background: var(--color-background-white);
     .container .row {
       text-align: center;
       img {
