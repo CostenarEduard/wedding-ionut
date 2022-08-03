@@ -2,14 +2,14 @@
   <section id="where-and-when" class="organization-section">
     <div class="container">
       <div class="row">
-        <div class="header-bottom">Detaliie Evenimentului</div>
+        <div class="header-bottom">Detaliile Evenimentului</div>
         <div class="menu-container">
           <div class="card">
             <div class="img-container">
               <img src="@/assets/images/img-ionut-2.jpg" alt="Ceremony">
             </div>
             <div class="text-container">
-              <h4>Cununia religioasa</h4>
+              <h4>Cununia religioasă</h4>
               <p class="text"><span class="pin"></span>Biserica Ortodoxa Învierea Domnului -Mihai Eminescu- Calea Clujului, Nr. 202-204 Oradea</p>
               <p class="text"><span class="clock"></span>14:30</p>
             </div>
@@ -19,7 +19,7 @@
               <img src="@/assets/images/Wedding-560x300.jpg" alt="Ceremony">
             </div>
             <div class="text-container">
-              <h4>Petrecere de nuntă</h4>
+              <h4>Petrecerea de nuntă</h4>
               <p class="text"><span class="pin"></span>Opera Events - Calea Aradului, Nr. 91A, Oradea, în apropierea magazinului Dedeman</p>
               <p class="text"><span class="clock"></span>16:00</p>
             </div>

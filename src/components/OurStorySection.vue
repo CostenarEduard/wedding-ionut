@@ -8,7 +8,7 @@
           <p>Ovidiu și Simona</p>
         </div>
         <img src="@/assets/images/branch.jpeg" alt="olive branch">
-        <p>Iar de acum înainte ne vor fi alaturi ca părinți spirituali, nașii noștri,</p>
+        <p>Iar de acum înainte ne vor fi alături ca părinți spirituali, nașii noștri,</p>
         <div class="content">
           <p>Ionuț și Maria Chira</p>
           <p>Mădălin și Anca Mudura</p>
