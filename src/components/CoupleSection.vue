@@ -59,66 +59,6 @@ watch(scrollDistance, () => {
         display: flex;
         justify-content: center;
       }
-      .cards-container {
-        display: flex;
-        justify-content: space-around;
-        min-height: 340px;
-        .card {
-          background-color: white;
-          max-width: 500px;
-          padding: 30px;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          text-align: center;
-          margin: 20px;
-          box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
-          width: 100%;
-          .card-image {
-            max-width: 140px;
-            max-height: 140px;
-            border-radius: 50%;
-            width: 140px;
-            height: 140px;
-            &.bride-img {
-              background: url('@/assets/images/Jessica-300x300.jpg') center;
-              background-size: cover;
-            }
-            &.groom-img {
-              background: url('@/assets/images/Eduard-300x300.jpg') center;
-              background-size: cover;
-            }
-          }
-          .card-header {
-            margin-top: 20px;
-            .card-header-title {
-              h3 {
-                font-family: serif;
-                font-size: 24px;
-              }
-            }
-            .card-header-subtitle {
-              margin-bottom: 6px;
-              h4 {
-                color: var(--color-text-gold);
-                font-size: 24px;
-                font-weight: 400;
-                font-family: 'BeauRivage-Regular', cursive;
-              }
-            }
-          }
-          .content {
-            p {
-              font-family: 'Nunito Sans', sans-serif;
-              font-size: 15px;
-              font-weight: 400;
-              line-height: 1.75em;
-              color: #888;
-              margin: 0 0 20px;
-            }
-          }
-        }
-      }
       .text-container {
         text-align: center;
         h3 {
@@ -189,17 +129,5 @@ watch(scrollDistance, () => {
   .right-slide-fade-leave-to {
     transform: translateX(80px);
     opacity: 0;
-  }
-
-  @media (max-width: 600px) {
-    .couple-section .row .cards-container {
-      flex-wrap: wrap;
-      .card {
-        margin-bottom: 0;
-        &:first-child {
-          margin-top: 0;
-        }
-      }
-    }
   }
 </style>

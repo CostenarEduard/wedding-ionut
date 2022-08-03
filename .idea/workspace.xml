@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db8a1c3b-66eb-456d-9b7c-d3b7dd1ba497" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Ceremony-560x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Eduard-300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Jessica-300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0597_1600x1067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0609_1600x1067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0615_1000x1250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0685_1600×1067.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0780_1600x1067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ZOE_0883_1600x1067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/olive_branch_261x112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CountdownSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CountdownSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CoupleSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CoupleSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DateSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DateSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FooterSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FooterSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavAside.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/OrganizationSection.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/OurStorySection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OurStorySection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SecondOrganizationSection.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WhenAndWhereSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhenAndWhereSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/language/i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/language/locales/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/language/locales/hu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/language/locales/ro.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/ThankYou.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +97,10 @@
       <workItem from="1656661012525" duration="3056000" />
       <workItem from="1657043968953" duration="12622000" />
       <workItem from="1657057724428" duration="4040000" />
-      <workItem from="1659464551646" duration="9580000" />
+      <workItem from="1659464551646" duration="10188000" />
+      <workItem from="1659546108925" duration="192000" />
+      <workItem from="1659547199299" duration="60000" />
+      <workItem from="1659553217801" duration="66000" />
     </task>
     <servers />
   </component>
